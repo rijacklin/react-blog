@@ -1,4 +1,4 @@
-# useeffect-posts
+# React Blog with useEffect
 
 To install dependencies:
 
